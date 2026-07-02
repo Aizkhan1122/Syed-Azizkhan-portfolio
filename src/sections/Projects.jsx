@@ -9,7 +9,7 @@ const projects = [
         description: "A corporate website for Ammar Group of Companies. It showcases the company's products and services. It is built using React, Node.js, Express, and MySQL.",
         image: "/projects/digitalistan.png",
         technologies: ["HTML/CSS", "JavaScript", "PHP", "Bootstrap", "MySQL", "Infnityfree",],
-        link: "https://www.ammargroup.in",
+        link: "https://digitalistan.mydiscussion.net",
         category: "FYP project",
         color: "#00d4ff",
     },
