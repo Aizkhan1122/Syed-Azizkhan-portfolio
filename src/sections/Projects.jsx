@@ -18,7 +18,7 @@ const projects = [
         description: "A web application that provides accurate weather forecasts and real-time weather updates. It uses modern APIs to fetch weather data and presents it in an intuitive and visually appealing interface.",
         image: "/projects/weather.png",
         technologies: ["React", "Node.js", "Vite", "OpenWeatherMap API", "Vercel"],
-        link: "https://weather-app-eight-rouge-97.vercel.app/",
+        link: "https://weather-app-w67t.vercel.app/",
         github: "https://github.com/Aizkhan1122/weather-App.git",
         category: "Personal project",
         color: "#8b5cf6",
