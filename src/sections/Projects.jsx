@@ -19,7 +19,7 @@ const projects = [
         image: "/projects/weather.png",
         technologies: ["React", "Node.js", "Vite", "OpenWeatherMap API", "Vercel"],
         link: "https://weather-app-eight-rouge-97.vercel.app/",
-        github: "https://github.com/Mamoon5G/NutriScan",
+        github: "https://github.com/Aizkhan1122/weather-App.git",
         category: "Personal project",
         color: "#8b5cf6",
     },
