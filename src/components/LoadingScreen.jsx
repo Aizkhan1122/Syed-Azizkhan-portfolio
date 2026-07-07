@@ -44,7 +44,7 @@ export const LoadingScreen = ({ skip = false }) => {
               transition={{ duration: 0.6, ease: "easeOut" }}
               className="text-4xl font-bold tracking-tighter"
             >
-              MS.
+              SYED.
             </motion.div>
 
             {/* Simple Progress text */}
